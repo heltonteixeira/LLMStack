@@ -2,7 +2,7 @@
   <a href="https://llmstack.trypromptly.com/"><img src="https://docs.trypromptly.com/img/llmstack-logo-light-white-bg.svg" alt="LLMStack" width="500px"></a>
 </p>
 <p align="center">
-    <em>LLMStack is a no-code platform for building generative AI agents, workflows and chatbots, connecting them to your data and business processes.</em>
+    <em>LLMStack is a no-code platform for building generative AI agents, workflows and chatbots, connecting them to your data and business processes..</em>
 </p>
 <p align="center">
     <a href="https://docs.trypromptly.com/llmstack/introduction" target="_blank">Quickstart</a> | <a href="https://docs.trypromptly.com" target="_blank">Documentation</a> | <a href="https://trypromptly.com" target="_blank">Promptly</a>
